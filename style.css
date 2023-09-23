@@ -46,8 +46,8 @@
     isolation: isolate;
   }
   body{
+    background-color: hsl(225, 100%, 94%);
     font-family: 'Red Hat Display';
-    background-image: url(pattern-background-mobile.svg);
   }
   .card{
     display:grid;
